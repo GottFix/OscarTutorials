@@ -1,0 +1,1 @@
+oscar64 -n vectoranimxordelay.cpp -O2 -Oz -xz

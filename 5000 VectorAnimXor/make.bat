@@ -1,0 +1,1 @@
+oscar64 -n vectoranimxor.cpp -O2 -Oz -xz

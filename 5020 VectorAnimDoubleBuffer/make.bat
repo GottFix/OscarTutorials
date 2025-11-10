@@ -1,0 +1,1 @@
+oscar64 -n vectoranimdbuff.cpp -O2 -Oz -xz

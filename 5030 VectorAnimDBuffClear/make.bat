@@ -1,0 +1,1 @@
+oscar64 -n vectoranimdbclr.cpp -O2 -Oz -xz
